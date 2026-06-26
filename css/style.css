@@ -3,6 +3,7 @@ body {
   font-family: Arial, sans-serif;
   color: white;
   overflow: hidden;
+      z-index: 0;
 
   background: linear-gradient(
     180deg,
@@ -11,7 +12,7 @@ body {
     #b84c82 45%,
     #f38b5c 72%,
     #ffd98a 100%
-    z-index: 0;
+
   );
 }
 
