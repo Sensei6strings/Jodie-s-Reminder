@@ -154,6 +154,10 @@ function updateClock() {
 // =====================================================
 
 function updateTimer() {
+
+console.log(TARGET_DATE);
+console.log(new Date());
+  
   const daysEl = document.getElementById("days");
   const hoursEl = document.getElementById("hours");
   const minutesEl = document.getElementById("minutes");
