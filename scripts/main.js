@@ -5,7 +5,7 @@
 // =============================
 // 🎯 CONFIG
 // =============================
-const TARGET_DATE = new Date("2026-06-30T08:30:00+02:00");
+const TARGET_DATE = new Date("2026-07-03T08:30:00+02:00");
 
 const playlist = [
   "music/song1.mp3",
